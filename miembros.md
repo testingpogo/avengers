@@ -2,8 +2,8 @@
 
 * Black panther
 * Black Widow
-* Capitán America
 * Capitán Marvel
+* Capitán America
 * Falcon
 * Hank Pym
 * Hawkeye
